@@ -1,7 +1,7 @@
 {
-  "name": "stylis-rtl",
-  "version": "1.0.1",
-  "description": "Stylis RTL plugin based on CSSJanus",
+  "name": "stylis-rtlcss",
+  "version": "1.0.0",
+  "description": "A forked verstion of Stylis RTL plugin based on CSSJanus but this is based on RTLCSS",
   "main": "dist/stylis-rtl.js",
   "scripts": {
     "build": "babel src --out-dir dist --ignore test.js",
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/FindHotel/stylis-rtl.git"
+    "url": "git+https://github.com/OmarZeidan/stylis-rtl.git"
   },
   "keywords": [
     "rtl",
@@ -20,14 +20,11 @@
     "emotion",
     "emotion-js",
     "css",
-    "preprocessor"
+    "preprocessor",
+    "rtlcss"
   ],
-  "author": "Jop de Klein",
+  "author": "Jop de Klein | Omar Zeidan",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/FindHotel/stylis-rtl/issues"
-  },
-  "homepage": "https://github.com/FindHotel/stylis-rtl#readme",
   "peerDependencies": {
     "stylis": "3.x"
   },
