@@ -1,6 +1,6 @@
 # Stylis RTL Plugin
 
-Stylis RTL plugin based on CSSJanus
+Stylis RTL plugin based on RTLCSS
 
 ## Using with Emotion
 
